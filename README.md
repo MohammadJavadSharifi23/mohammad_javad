@@ -1,23 +1,24 @@
 # Hi there 👋 I'm Mohammad Javad  
 
-👨‍💻 A passionate developer who loves learning new technologies and building useful projects.  
-🚀 Open-source enthusiast & always excited to contribute on GitHub.  
+👨‍💻 A passionate developer learning cool technologies.  
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=MohammadJavadSharifi23&theme=onedark&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadJavadSharifi23&show_icons=true&theme=radical)
+### 🏆 My Fake GitHub Trophies
+![Trophy](https://img.shields.io/badge/Trophy-1-yellow?style=flat-square)  
+![Trophy](https://img.shields.io/badge/Trophy-2-orange?style=flat-square)  
+![Trophy](https://img.shields.io/badge/Trophy-3-red?style=flat-square)  
+![Trophy](https://img.shields.io/badge/Trophy-4-purple?style=flat-square)  
+![Trophy](https://img.shields.io/badge/Trophy-5-pink?style=flat-square)  
+![Trophy](https://img.shields.io/badge/Trophy-6-blue?style=flat-square)  
+![Trophy](https://img.shields.io/badge/Trophy-7-green?style=flat-square)  
+![Trophy](https://img.shields.io/badge/Trophy-8-cyan?style=flat-square)  
 
 ---
 
 ### 🌱 Currently Learning
+- Java  
 - JavaScript  
 - PHP  
 - HTML  
 - CSS  
-- Open-source tools & Git  
