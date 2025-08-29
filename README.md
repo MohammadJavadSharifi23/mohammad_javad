@@ -5,12 +5,6 @@ Hi! I'm Mohammad Javad, a web developer and programmer.
 
 ---
 
-## 🎖️ جوایز و مدال‌ها / Awards & Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=fake-user&theme=dracula&row=1&column=5&margin-w=10&margin-h=10&title=Stars,Followers,Commits,PRs,Issues)
-
----
-
 ## 💻 مهارت‌ها / Skills
 
 - **PHP** 🟣
