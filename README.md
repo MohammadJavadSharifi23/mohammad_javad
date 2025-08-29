@@ -1,26 +1,25 @@
-# Hi there 👋 I'm Mohammad Javad  
+# 🏆 محمد جواد - Profile Trophy
 
-👨‍💻 Passionate developer learning cool technologies.  
-
----
-
-### 🏆 My GitHub Trophies
-
-[![Java](https://github-profile-trophy.vercel.app/?username=MohammadJavadSharifi23&column=5&theme=onedark&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![JavaScript](https://github-profile-trophy.vercel.app/?username=MohammadJavadSharifi23&column=5&theme=onedark&row=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![PHP](https://github-profile-trophy.vercel.app/?username=MohammadJavadSharifi23&column=5&theme=onedark&row=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![HTML](https://github-profile-trophy.vercel.app/?username=MohammadJavadSharifi23&column=5&theme=onedark&row=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![CSS](https://github-profile-trophy.vercel.app/?username=MohammadJavadSharifi23&column=5&theme=onedark&row=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+سلام! من محمد جواد هستم، توسعه‌دهنده وب و برنامه‌نویس.  
+Hi! I'm Mohammad Javad, a web developer and programmer.
 
 ---
 
-### 🌱 Currently Learning
-- JavaScript  
-- PHP  
-- HTML  
-- CSS  
-- Open-source tools & Git
+## 🎖️ جوایز و مدال‌ها / Awards & Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=fake-user&theme=dracula&row=1&column=5&margin-w=10&margin-h=10&title=Stars,Followers,Commits,PRs,Issues)
+
+---
+
+## 💻 مهارت‌ها / Skills
+
+- **PHP** 🟣
+- **JavaScript** 🟨
+- **HTML & CSS** 🟥🟦
+- **Python** 🐍
+
+---
+
+## 📊 آمار GitHub / GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fake-user&show_icons=true&theme=radical)
